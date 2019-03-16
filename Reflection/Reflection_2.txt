@@ -14,7 +14,7 @@ Square Root Decomposition Technique:
 • Space Complexity is O(sqrt(n)).
 • Time Complexity to query is O(sqrt(n)).
 
-------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 
 Segment Tree:
 • Segment tree helps with range query in an array e.g. minimum from index 2 to 4.
@@ -23,6 +23,7 @@ Segment Tree:
 • Time Complexity to build this is O(n).
 • Time Complexity for a query is O(log(n)).
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
 Kadane’s Algorithm to find the maximum subarray sum:
 • Simple idea of the Kadane's algorithm is to look for all positive contiguous segments of the array and keep track of maximum sum           contiguous segment among all positive segments
