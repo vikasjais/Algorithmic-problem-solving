@@ -1,0 +1,8 @@
+There are two ways to generate pascal's triangle.
+(a) Using Dynamic Programming.
+(b) Using recursive method.
+
+If we need single binomial coefficient go for recursive approach.
+If we need more than one binomial coefficient go for DP approach.
+
+There is a method to generate nth row of pascals's triangle.
