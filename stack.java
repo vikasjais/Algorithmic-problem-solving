@@ -1,7 +1,9 @@
 
 package javaapplication42;
 import java.util.*;
-
+/*
+ author @vikas jaiswal
+ */
 public class left_rotation {
 
   
