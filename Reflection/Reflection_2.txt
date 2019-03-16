@@ -14,6 +14,7 @@ Square Root Decomposition Technique:
 • Space Complexity is O(sqrt(n)).
 • Time Complexity to query is O(sqrt(n)).
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Segment Tree:
 • Segment tree helps with range query in an array e.g. minimum from index 2 to 4.
