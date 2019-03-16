@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-class JavaApplication43 {
+class STACK {
  
     
     public static void main(String args[]){
